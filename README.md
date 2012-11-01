@@ -7,9 +7,9 @@ black and white heatmap.
 Installation
 ------------
 
-# Pyton2.6 or greater
-# Install [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
-# Download and install [incf.countryutils 1.0](http://pypi.python.org/pypi/incf.countryutils)
+* Pyton2.6 or greater
+* Install [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
+* Download and install [incf.countryutils 1.0](http://pypi.python.org/pypi/incf.countryutils)
 
 Use
 ---
